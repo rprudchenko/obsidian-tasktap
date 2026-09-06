@@ -5,7 +5,7 @@
   "description": "Tap task text to toggle checkboxes in Obsidian on mobile.",
   "license": "MIT",
   "author": "prudok",
-  "repository": { "type": "git", "url": "https://github.com/prudok/obsidian-tasktap.git" },
+  "repository": { "type": "git", "url": "https://github.com/rprudchenko/obsidian-tasktap.git" },
   "scripts": {
     "check": "tsc --noEmit",
     "lint": "eslint main.ts --max-warnings 0",

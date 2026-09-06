@@ -5,6 +5,6 @@
   "minAppVersion": "1.12.4",
   "description": "Toggle tasks by tapping their text on mobile. Tap after the text in editing view to place the cursor.",
   "author": "prudok",
-  "authorUrl": "https://github.com/prudok",
+  "authorUrl": "https://github.com/rprudchenko",
   "isDesktopOnly": false
 }
